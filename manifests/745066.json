@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/745066.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Merched y Wawr Ffair Rhos Branch Reciting Party 1976"
+        ],
+        "cy": [
+            "Parti cyd-adrodd Merched y Wawr Cangen Ffair Rhos a’r Cylch 1976"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2018-01-25"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Merched y Wawr"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/745066.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 1800,
+            "height": 1363,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/MYW-DE-CEREDIGION-110317-187.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/745066.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/745066.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/MYW-DE-CEREDIGION-110317-187.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1800,
+                                "height": 1363
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/745066.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "Parti cyd-adrodd Merched y Wawr Cangen Ffair Rhos a’r Cylch a fu’n cystadlu yn Eisteddfod Genedlaethol Aberteifi 1976, gyda’r hyfforddwyr – Y Parchedig WJ Gruffydd (Elerydd) a’r Pryfardd Dafydd Jones.  \nRhes ôl – Ann Williams, Mair Morgan, Joan Evans, Evelyn Morgam, Janice McConochie,Marion Hopkins Williams, Bronwen Thomas, Gwyneth Jones, \nRhes flaen – WJ Gruffydd, Annie Jones, Mag Jenkins, Peg Hughes, Terris Roberts, Jenny Jones, Peggy Jones, Dafydd Jones"
+        ],
+        "cy": [
+            "Parti cyd-adrodd Merched y Wawr Cangen Ffair Rhos a’r Cylch a fu’n cystadlu yn Eisteddfod Genedlaethol Aberteifi 1976, gyda’r hyfforddwyr – Y Parchedig WJ Gruffydd (Elerydd) a’r Pryfardd Dafydd Jones.  \nRhes ôl – Ann Williams, Mair Morgan, Joan Evans, Evelyn Morgam, Janice McConochie,Marion Hopkins Williams, Bronwen Thomas, Gwyneth Jones, \nRhes flaen – WJ Gruffydd, Annie Jones, Mag Jenkins, Peg Hughes, Terris Roberts, Jenny Jones, Peggy Jones, Dafydd Jones"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/MYW-DE-CEREDIGION-110317-187.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

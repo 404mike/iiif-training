@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/1944826.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Snow at the Old Farm, Skomer Island, April 2022"
+        ],
+        "cy": [
+            "Snow at the Old Farm, Skomer Island, April 2022"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2023-02-06"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Skomer Island Archive"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/1944826.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 3980,
+            "height": 2973,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/20220408_192904.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/1944826.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/1944826.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/20220408_192904.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3980,
+                                "height": 2973
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/1944826.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "Ceris Aston (assistant warden) and Gruffydd Jones (archivist) after a shower of hail and snow at the Old Farm on 15 April 2022."
+        ],
+        "cy": [
+            "Ceris Aston (assistant warden) and Gruffydd Jones (archivist) after a shower of hail and snow at the Old Farm on 15 April 2022."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/20220408_192904.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/3029808.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "RAFP Fishing trip, Karachi, India 1945-47"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2026-11-16"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "G Llewelyn"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3029808.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 1344,
+            "height": 977,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/rafp-india-1945-47-lunch-on-the-boat-off-karachi-coast.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3029808.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3029808.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/rafp-india-1945-47-lunch-on-the-boat-off-karachi-coast.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1344,
+                                "height": 977
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3029808.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "<p>RAFP Fishing trip, Karachi, India 1945-47 meal being prepared for the fishing trip&nbsp;</p>"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/rafp-india-1945-47-lunch-on-the-boat-off-karachi-coast.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

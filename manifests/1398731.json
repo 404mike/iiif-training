@@ -1,0 +1,92 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/1398731.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Jones family picture"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2020-05-29"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "cywMike"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/1398731.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 5005,
+            "height": 3196,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/family018.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/1398731.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/1398731.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/family018.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 5005,
+                                "height": 3196
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/1398731.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "A family picture of my grandfather (back left).\r\n\r\nBack left: David Jones\r\nBack right: John Jones\r\nFront left: William Jones\r\nMiddle: Jane Mary Jones\r\nFront right: Catherine (nee Rowlands) Jones\r\n\r\nPhoto taken ~1920s"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/family018.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

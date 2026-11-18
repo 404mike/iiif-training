@@ -1,0 +1,140 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/3026546.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Rosario Mazzeo releasing Manx Shearwater 'AX 6587' from Boston, USA, 1952"
+        ],
+        "cy": [
+            "Rosario Mazzeo yn rhyddhau aderyn Drycin Manaw (AX 6587) o Foston, UDA, 1952"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2026-08-13"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "The 1952 Transatlantic Manx Shearwater Homing Experiment Archive"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026546.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 1956,
+            "height": 3000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1206.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026546.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026546.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1206.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1956,
+                                "height": 3000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026546.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026546.json/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 2"
+                ],
+                "cy": [
+                    "Delwedd 2"
+                ]
+            },
+            "width": 4044,
+            "height": 3000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1208_2.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026546.json/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026546.json/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1208_2.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 4044,
+                                "height": 3000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026546.json/canvas/1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "<p><span>Rosario Masseo releasing to release the Manx Shearwater 'AX 6587' from Logan International Airport, Boston, Massachusetts, at 8:15 DST, June 3 1952.</span></p><p><span>In June 1952, amateur ornithologist Rosario Mazzeo and British researcher Ronald Lockley conducted a groundbreaking avian navigation experiment involving a Manx Shearwater (designated as AX6587).&nbsp;</span><br><span>The bird was captured at its nesting grounds on Skokholm Island in Wales, placed in a box, and flown across the Atlantic Ocean via passenger aircraft. Released at Boston's Logan International Airport on June 3rd, the shearwater immediately turned east over Boston Harbor. It successfully crossed the North Atlantic and returned to its exact home burrow on June 16th.&nbsp;</span><br><span>Covering roughly 3,200 miles in just 12.5 days, this epic journey set the record for the longest homing flight ever recorded at the time and conclusively proved the extraordinary transoceanic navigation capabilities of seabirds</span></p>"
+        ],
+        "cy": [
+            "<p><span>Rosario Mazzeo yn paratoi i ryddhau'r Ddrycin Manaw ( AX6587) ar y 3ydd o Fehefin 1952, 8:15 DST yn Faes Awyr Rhyngwladol Logan.</span></p>"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1206.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

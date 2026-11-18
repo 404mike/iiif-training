@@ -1,0 +1,602 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Draft article regarding the Manx Shearwater Boston Experiment by R M Lockley, 1952"
+        ],
+        "cy": [
+            "Draft article regarding the M.shearwater Boston Experiment by R M Lockley, 1952"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2026-08-13"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "The 1952 Transatlantic Manx Shearwater Homing Experiment Archive"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 2000,
+            "height": 1698,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1275.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1275.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2000,
+                                "height": 1698
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 2"
+                ],
+                "cy": [
+                    "Delwedd 2"
+                ]
+            },
+            "width": 2000,
+            "height": 1701,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1276.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1276.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 2000,
+                                "height": 1701
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 3"
+                ],
+                "cy": [
+                    "Delwedd 3"
+                ]
+            },
+            "width": 1553,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1277.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/2",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1277.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1553,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 4"
+                ],
+                "cy": [
+                    "Delwedd 4"
+                ]
+            },
+            "width": 1573,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1278.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/3",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1278.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1573,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 5"
+                ],
+                "cy": [
+                    "Delwedd 5"
+                ]
+            },
+            "width": 1601,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1279.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/4",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/4",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1279.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1601,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 6"
+                ],
+                "cy": [
+                    "Delwedd 6"
+                ]
+            },
+            "width": 1610,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1280.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/5",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/5",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1280.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1610,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 7"
+                ],
+                "cy": [
+                    "Delwedd 7"
+                ]
+            },
+            "width": 1569,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1281.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/6",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/6",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1281.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1569,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 8"
+                ],
+                "cy": [
+                    "Delwedd 8"
+                ]
+            },
+            "width": 1569,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1282.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/7",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/7",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1282.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1569,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 9"
+                ],
+                "cy": [
+                    "Delwedd 9"
+                ]
+            },
+            "width": 1548,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1283.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/8",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/8",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1283.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1548,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/9",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 10"
+                ],
+                "cy": [
+                    "Delwedd 10"
+                ]
+            },
+            "width": 1601,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1284.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/9",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/9",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1284.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1601,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/10",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 11"
+                ],
+                "cy": [
+                    "Delwedd 11"
+                ]
+            },
+            "width": 1587,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1285.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/10",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/10",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1285.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1587,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/11",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 12"
+                ],
+                "cy": [
+                    "Delwedd 12"
+                ]
+            },
+            "width": 1559,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1286.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/11",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/11",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1286.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1559,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/12",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 13"
+                ],
+                "cy": [
+                    "Delwedd 13"
+                ]
+            },
+            "width": 1541,
+            "height": 2000,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1287.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/page/12",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026706.json/annotation/12",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1287.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1541,
+                                "height": 2000
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026706.json/canvas/12"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "<p>In this draft article written for a U.S. publication, British ornithologist R.M. Lockley details a historic transatlantic homing experiment conducted in June 1952.</p><p><span>During a chance </span>June 1952 visit to Wales, Boston Symphony Orchestra manager Rosario Mazzeo agreed to a spontaneous experiment proposed by ornithologist R.M. Lockley: transporting a Manx shearwater (AX6587) back to Boston to test its homing abilities. Released at Logan Airport on June 3rd, the bird made a record-breaking 3,200-mile transatlantic return to its Skokholm Island burrow in just 12.5 days. Ruling out random searching via flight mathematics, Lockley concluded that contemporary solar navigation theories could not explain the feat, famously remarking that the bird navigated as if it carried a \"compass, a clock... a sextant and chart as well.\"</p><p>Transcription:</p><p>We were delighted with Rosario Mazzeo when he arrived. His intense boyish enthusiasm for our sea-birds made it a pleasure to take him around. On Friday we visited the little island sanctuary of St Margaret's, near Tenby, in the Society's yacht MAB. This is a limestone plateau where we were able to show Mazzeo 250 pairs of herring-gull (L.argentatus), 120 pairs of kittiwake (Rissa tridactyla), 100 pairs of European cormorant, 70 pairs of razorbilled auk, 30 pairs of great gull (Larus marinus), 20 Pairs of Atlantic murre (Uria aalge), 20 pairs of lesser black backed gull (L. fuscus), 10 pairs of Shag (Phalacrocorax aristotelis), 10 pairs of puffin, and 3 pairs each of Oyster-catcher and Rock-pipit (Anthus spinoletta). St Margaret's is a glassy, cliff-bound island of only 20 acres and lies adjacent to the larger island of Caldey, where there is a Cistercian monastery.</p><p>On Saturday, in spite of falling rain, we embarked in Mr Charles Llewellyn's yacht KINGFISHER at Thorne Island, a red sandstone rock crowned with an early Victorian fort (now an hotel) which guards the southern entrance to Milford Haven. A thick fog covered the distant bird-islands five or six miles to sea, and it did not cease to rain all day. But the party was in high spirits, enlivened by coffee served by the hospitable Pearsons, owners of Thorne Island Hotel.</p><p>Around the headland of St Ann the Atlantic swell growled white and angry over red rocks. The lighthouse syren boomed an ear-splitting double note. We were soon in a world bound by a circle of mist through which hurried from time to time energetically flying puffins, murres, razorbilled auks, gulls and fulmar petrels.</p><p>\"There's too much of a swell for landing on Grassholm. You'll have to miss the gannets. But we can find a quiet harbour at Skomer,\" I warned our guest.</p><p>\"As you say,\" said Mazzeo, who was warmly buttoned up in a borrowed naval duffle-coat. \"But I would just like a peep at Skokholm if we are passing that way. I've read so much about your Dream Island.\"</p><p>\"You'll be disappointed, in this rain!\" I said as I turned the yacht more westerly to reach Skokholm on a compass bearing. The subject next discussed was the homing of sea-birds through this kind of fog about us. The rain dripped from the windscreens. Charles Llewellin handed round fortifying Scotch whisky.</p><p>\"How does a sea-bird find its way through dense mist like this? Look at those puffins - flying as if they knew the way.\"</p><p>The sea-birds were however not flying, by the compass, directly towards or from Skokholm, but in all directions. It was hard to tell what they were doing - probably on normal routine feeding journeys.</p><p>\"Perhaps wind-patterns on the water, the set of currents, and other natural features of the sea which experienced seamen can read, together with the intensity of light in that part of the sky which, even at this moment, betrays the position of the sun, guide them in fog in day-time?\"</p><p>\"It is generally agreed, I think, that bird-navigation is not influenced by connection with the magnetic field of the earth. Research work on orientation and navigation, by scientists like your Griffin, by Gustav Kramer in Germany and by G.V.T. Matthews in Britain has recently shown fruitful results, producing evidence that the sun is a guiding factor. Kramer has shown that starlings can orientate at any time of the day with great precision provided the sky is reasonably clear.\"</p><p>\"Arguing a time-sense as well as a compass-sense. . .\"</p><p>\"And Matthews, in his latest paper, published a few days ago in the 1951 Skokholm Bird Observatory Report, shows that, in clear weather, Manx shearwaters from Skokholm homed rapidly when released inland in localities unknown to them; and, what is most exciting, these birds showed an accurate initial homeward orientation at the moment of release.\"</p><p>\"But I seem to remember that you conducted similar experiments with Skokholm shearwaters before the war? Didn't one bird return from Venice in fourteen days? By sea, down the Adriatic and through the Straits of Messina and Gibraltar the return would be 3,700 miles, an impossible task in 14 days for a bird which had no pre-knowledge of the Mediterranean - and your shearwater I believe never enters the Mediterranean, let alone the Adriatic. But by land the distance is only 930 miles by air between Venice and Skokholm?\"</p><p>\"Quite. Its certain that the shearwater which homed in 14 days must have travelled part of the way overland. In fact one Venetian shearwater, on release over the lagoon, instead of flying south-east towards the sea (and the open Adriatic which was in sight), rose up into the sky and headed west for Skokholm over the formidable barrier of the Italian Alps. Subsequently some of the shearwaters released high up in the Alps showed the same tendency to orientate correctly on release. It must be admitted however that at the time we considered their initial orientations too wonderful to be explained except as accidental. Even when two birds were released south of London at Frensham Ponds, Surrey, and flew south-west (instead of north-east towards the nearest sea) and got home within a day, we regarded this as chance. Now however Matthews has also found that shearwaters released far inland on fine days have orientated correctly and homed at amazing speeds. Birds from Cambridge, which might be expected to turn east and reach the North Sea sixty miles away, have turned west instead and made 250 miles overland and got back to Skokholm in 6¼, 8, 8, and 8½ hours!\"</p><p>\"Land ahead,\" interrupted Charles Llewellin, \"Looks like the red rocks of Skokholm.\"</p><p>\"Did you say you were flying home to Boston on Monday?\" I asked. \"Because if so why not take a shearwater with you? That is, if, as I believe to be the case, Matthews is at this moment working at Skokholm? It would be an interesting and convenient test. Just before the war we sent two shearwaters for release at Boston, but the long steamer journey tired them, and we did not record their return.\"</p><p>We found the harbour at Skokholm in rain. No one was there to greet us - for we were not expected. But thousands of puffins auks and gulls wheeled in the misty air above the lone figurehead of the schooner Alice Williams which, twenty-four years ago, came ashore soon after my first arrival at Skokholm. There sat Alice Williams, on the edge of the cliff, gazing out in wooden welcome - reminder of the store of timber and coal which she had provided, by so opportune a wreck, for the young and nearly penniless amateur Crusoes.</p><p>When war broke out the island idyll of Dream Island came to an end. The War Office wanted the island. Luckily they did no damage to it. Now Skokholm is a permanent bird observatory, leased by the West Wales Field Society and managed by the Council for the Promotion of Field Studies. Here a handful of students continues the research we originated; and there is a resident warden who co-ordinates the efforts of the many visiting naturalists. Students must take part in the daily maintenance and chores in the spirit of all Crusoes.</p><p>We were not at all surprised then, on marching up to the little farmhouse, the only building on the island apart from the lighthouse, to find Dr Matthews in the middle of his watch on the after-dinner washing-up rota. He was delighted with our proposal. He was excused further washing-up. This young scientist enthusiastically agreed to crate a shearwater for Mazzeo to take to Boston; and he would prepare it while we continued our cruise to Skomer.</p><p>The shearwater is an ideal subject for homing experiments. It is docile and easily caught in its burrow, where it remains unmoving all day. It does not desert after being handled quite extensively. More important still, both sexes incubate by long shifts of up to 12 days at a time (though usually only three or fours days); one partner remains fasting at the nest while the other enjoys a recuperative holiday feeding at sea. Hence a long fast, imposed by involuntary travel in the interests of experimental biology, is no great departure from normal habit.</p><p>There is scarcely space to tell of the visit to Skomer, which, with Skokholm and Grassholm, some older American ornithologists will remember visiting on the gloriously fine day of July 8th, 1934, when the British government provided two of H.M. destroyers to convey members of the VIII International Ornithological Congress to these sea-bird sanctuaries. Grassholm is famous for its 8,000 pairs of nesting gannets, Skokholm is a place of bird-banding research, Skomer (700 acres, more than twice the size of Skokholm) is a show place for visitors with its 200 feet high cliffs and its enormous colonies of sea-birds, its maritime flowers and its Atlantic seals. Mazzeo in fact did not move far from the spot on Skomer where he was put ashore. He did not have to wander. The kittiwakes, the myriads of puffins, the gulls, the auks, the sea-pinks, bluebells and red campion engrossed his attention with every step. In the sea below Atlantic seals groaned an invitation to stop and be photographed.</p><p>He had almost to be dragged away at the last moment for embarking. Nor did he want to leave Skokholm when we called in on the way home, and picked up Matthews' crated shearwater.</p><p>Next day Mazzeo took a sleeping compartment for himself on the South Wales-London express. The shearwater, which has a vigorous crowing nocturnal call, sang often at night in its cardboard prison, creating doubts in the minds of neighbouring human sleepers as to the sanity of the distinguished clarinet player of the Boston Symphony Orchestra.</p><p>All the way over to Boston by air he guarded Mr. AX6587 under his seat. Arriving at the airport on June 3rd, he was met by the Customs, the Department of Agriculture, and photographers. Everyone was helpful and anxious to see the prisoner set free. Mazzeo was taken in a truck to the edge of the sea at the far end of the airport. Shearwater AX6587 was photographed before and after release. Mazzeo followed the instructions and gave the bird a good throw up into the air to enable it to get its wings successfully. The time was 08.15 hours Daylight Saving Time. It was bright sunshine and no wind. The shearwater flew strongly in the direction of the open sea, and turned eastwards - in the general direction of Europe!</p><p>Did we expect the shearwater to return quickly to Skokholm? No. Did we hope it would? Of course.</p><p>And it has. On June 20th I got an excited message from Dr. Matthews, who had sent to inform me by the first boat available. It ran:</p><p>Mazzeo's bird 6587 was back 01.30 hours this morning, June 16th. I had checked this and confirmed with photographs before the boat arrived with Mazzeo's letter.</p><p>A scientist must be cautious in trying to assess the value of a single record so remarkable as this. Let us take the facts.</p><p>This bird travelled 2,800 nautical miles, or over 3,200 land miles, in 12 days 12 hours 31 minutes (Boston daylight saving time is 4 hours 44 minutes earlier than London daylight saving time, and therefore the shearwater left Boston at 12.59 London daylight saving time precisely, on June 3rd). In round figures it covered 250 miles a day, or over 10 miles an hour.</p><p>Now if the shearwater had to navigate by the sun (conforming to the evidence offered by Kramer and Matthews) it would not travel by night. In any case it would require to rest, feed and preen at some time during each day or night. We can safely allow the bird an average of four out of the twenty fours hours of the day for these essential occupations in a shearwater's routine. This allowance would increase the speed to 12½ miles an hour. But as a shearwater does not travel in a straight line, but by a careening side-to-side swaying flight, we have to allow a greater flight-speed to cover 12½ miles an hour ground or surface speed. If we allow, in round figures, 20 miles an hour flight speed to cover 250 miles surface progress in a day, therefore, we are probably near the mark. A shearwater flies normally at between 30 and 40 miles an hour. This gives our record-breaker one third of the day, roughly, for wandering, or in effect one third of 3,200 land miles, say rather more than 1,000 miles of random travel in the course of exploratory homing. This is very little, and can hardly be enough to explain its rapid return by random searching.</p><p>What then enabled it to home so quickly?</p><p>In trying to understand the feat a number of factors must be borne in mind. First, that this shearwater normally never visits, &amp; therefore could have no preknowledge of, the coast of North America, as far as we know. Second, the fact that the shearwater immediately flew east on release at Boston cannot be satisfactorily explained by saying that of course any sea-bird it would go straight out to sea - the shearwater at Venice and Matthews' Cambridge homers turned inland on release. Third, the sun was shining brightly at the moment of release, which was followed by correct orientation. Fourth, that no shearwater normally will return to the nest unless it is in good condition after adequate feeding at sea; so that AX6587 had spent some, possibly some considerable, time in resting and feeding, thus reducing the time available for possible random search. Fifth, no other bird has travelled so far and so fast in a homing experiment before (Swallows, which fly about the same speed as the shearwaters, have covered 1,460 miles in a homing experiment, but only made 125 miles a day, just half the speed of the shearwater over a much shorter distance).</p><p>Sun navigation and the sun-angle hypothesis do not seem adequate to explain the latest feat of the homing bird, which appears to carry in its head not only a compass and a clock, but a sextant and chart as well!</p><p>In the same 1951 Skokholm Bird Observatory Report is the interesting record of a juvenile shearwater ringed at Skokholm on November 20th last, recovered at Rio de Janeiro 71 days later. This of course was a natural migration. It has long been a matter of speculation as to the origin of the Manx shearwaters which are known to visit the Brazilian coast in winter; now it seems likely that our British shearwaters are the source. And, as no adult shearwaters have yet been recorded farther south than the bay of Biscay and Portugal, it seems probable that it is the young shearwaters of the year which make this long migration of 5,000 nautical miles. We are beginning to learn from banding studies that it is always the young birds which wander farthest. Our intensive banding of gannets at Grassholm has shown that the juveniles travel farthest south, and reach Cape Blanco and Senegal, the older birds remaining nearer home as they mature because they are ready to breed early in the spring (February). In February too the adult shearwaters arrive at Skokholm, and it is probable that the juveniles do not return to Skokholm from their ocean wandering until midsummer, too late to breed, or perhaps do not visit the island at all in their second summer at sea. This remarkable ocean crossing of the young shearwater, alone (for it is forsaken by its parents before it leaves the burrow in the autumn), to winter-quarters it has never seen before, is another orientation-navigation puzzle for the scientist. Obviously such an unguided migration is innate or instinctive. The young shearwater from Skokholm which reached Rio, Brazil in 71 days averaged 71 miles a day, which is a fine performance, is confronted with the problem of an unknown orientation mechanism as puzzling as that possessed by our friend AX6587.</p>"
+        ],
+        "cy": [
+            "<p><span>Yn y llythr mae Lockley yn gofyn i Mazzeo i ddanfon ei adroddiad i bapurau newydd Americanaidd. Mae'r adroddiad yn rhoi darlun i ni o sut cafodd yr ymchwil ei gynllunio gan Lacklay, Matthew a Mazzeo. Yn ddiddorol iawn mae Lockley wedi penderfynu gadael manylion marwolaeth yr ail ddrycin Manaw.</span></p>"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1275.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/477520.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Beekeeping smoker, Bontgoch 2015"
+        ],
+        "cy": [
+            "Mwgiwr gwenyniaeth, Bontgoch 2015"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2015-11-09"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Gruffydd E. Jones"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/477520.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 1300,
+            "height": 815,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/a001a.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/477520.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/477520.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/a001a.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1300,
+                                "height": 815
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/477520.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "Examining beekeeping equipment with the Aberystwyth Beekeepers Association at the Tan-y-Cae apiary in Bontgoch, Ceredigion. May 2015"
+        ],
+        "cy": [
+            "Edrych ar offer gwenyniaeth gyda'r Aberystwyth Beekeepers Association ger Bontgoch, Ceredigion. Mai 2015"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/a001a.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

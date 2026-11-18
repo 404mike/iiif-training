@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/486654.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "People's Collectiion Wales training day at San Andrés  University Buenos Aires"
+        ],
+        "cy": [
+            "Diwrnod hyfforddiant Casgliad y Werin ym Mhrifysgol San Andrés  -  Buenos Aires"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2015-12-01"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "People's Collection Wales"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/486654.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 3084,
+            "height": 1962,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/grj_002a.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/486654.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/486654.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/grj_002a.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3084,
+                                "height": 1962
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/486654.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "Berian Elias and Dr Dafydd Tudur delivering a People's Collection Wales digital training day at the San Andrés University– Buenos Aires  to encourage people to digitize material that documents the history of the Welsh who settled in Patagonia 150 years ago.\r\nhttp://prezi.com/ptoqjjy68l28/?utm_campaign=share&utm_medium=copy&rc=ex0share"
+        ],
+        "cy": [
+            "Berian Elias a Dr Dafydd Tudur yn cyflwyno diwrnod hyfforddiant Casgliad y Werin ym Mhrifysgol San Andrés – Buenos Aires er mwyn annog pobl i ddigido  deunydd am hanes y Cymry yn y Wladfa fel rhan o ddathliadau Patagonia 150\r\nhttp://prezi.com/ptoqjjy68l28/?utm_campaign=share&utm_medium=copy&rc=ex0share"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/grj_002a.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

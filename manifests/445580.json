@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/445580.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Aberystwyth Castle, January 2015"
+        ],
+        "cy": [
+            "Castell Aberystwyth, Ionawr 2015"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2015-04-30"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Gruffydd E. Jones"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/445580.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 1100,
+            "height": 715,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/22.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/445580.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/445580.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/22.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 1100,
+                                "height": 715
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/445580.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "The castle is an Edwardian fortress built in the late 13th century, around which the town of Aberystwyth has expanded.\r\n\r\nThe upright stones form part of 'Cylch yr Orsedd' (Gorsedd Stones) which are an integral part of the druidic ceremonies of the Eisteddfod. They are erected wherever the National Eisteddfod has been held to commemorate the event. "
+        ],
+        "cy": [
+            "Lleolir Castell Aberystwyth ar frig rhwng traeth y de a thraeth y gogledd yn nhref Aberystwyth, Ceredigion. Adfeilion yn unig a welir yno heddiw, y cwbl a erys o'r castell ag adeiladwyd ar y safle yn 1277, ond roedd sawl castell cynharach ar y safle cyn i'r un presennol gael ei godi. Mae'r amddiffynfa cyntaf yn dyddio o Oes yr Haearn.\r\n\r\nMae'r cerrig sydd i'w gweld yma yn rhan o Gylch yr Orsedd, sef cylch o gerrig a godir yn flynyddol ar gyfer defodau Gorsedd y Beirdd yn yr Eisteddfod Genedlaethol."
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/22.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/iiif-training/manifests/3026556.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "Manx shearwater 'AX 6587' returning to Skokholm island, Pembrokeshire, 1952."
+        ],
+        "cy": [
+            "Drycin manaw (AX 6587) wedi dychwelyd i Skokholm"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Created"
+                ]
+            },
+            "value": {
+                "en": [
+                    "2026-08-13"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Author"
+                ]
+            },
+            "value": {
+                "en": [
+                    "The 1952 Transatlantic Manx Shearwater Homing Experiment Archive"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/canvas/0",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 1"
+                ],
+                "cy": [
+                    "Delwedd 1"
+                ]
+            },
+            "width": 3211,
+            "height": 2636,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1209.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/page/0",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1209.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3211,
+                                "height": 2636
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026556.json/canvas/0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 2"
+                ],
+                "cy": [
+                    "Delwedd 2"
+                ]
+            },
+            "width": 3139,
+            "height": 2498,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1211_0.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/annotation/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1211_0.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3139,
+                                "height": 2498
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026556.json/canvas/1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "en": [
+                    "Image 3"
+                ],
+                "cy": [
+                    "Delwedd 3"
+                ]
+            },
+            "width": 3360,
+            "height": 2548,
+            "thumbnail": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1210_0.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/page/2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://404mike.github.io/iiif-training/manifests/3026556.json/annotation/2",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1210_0.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "width": 3360,
+                                "height": 2548
+                            },
+                            "target": "https://404mike.github.io/iiif-training/manifests/3026556.json/canvas/2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "summary": {
+        "en": [
+            "<p><span>The Manx Shearwater AX6587 arrived at Skokholm Island at 1:30 am on the 16 of June 1952.</span></p><p><span>In June 1952, amateur ornithologist Rosario Mazzeo and British researcher Ronald Lockley conducted a groundbreaking avian navigation experiment involving a Manx Shearwater (designated as AX6587).&nbsp;</span><br><span>The bird was captured at its nesting grounds on Skokholm Island in Wales, placed in a box, and flown across the Atlantic Ocean via passenger aircraft. Released at Boston's Logan International Airport on June 3rd, the shearwater immediately turned east over Boston Harbor. It successfully crossed the North Atlantic and returned to its exact home burrow on June 16th.&nbsp;</span><br><span>Covering roughly 3,200 miles in just 12.5 days, this epic journey set the record for the longest homing flight ever recorded at the time and conclusively proved the extraordinary transoceanic navigation capabilities of seabirds.</span></p>"
+        ],
+        "cy": [
+            "<p><span>Cyrhaeddodd y Ddrycin Manaw AX6587 ynys Skokholm am 1:30 yb ar y 16 o Fehefin 1952.</span><br>&nbsp;</p>"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://404mike.github.io/iiif-training/images/ddr_pcw2024_01_1209.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ]
+}
